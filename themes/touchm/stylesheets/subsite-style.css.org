@@ -1,0 +1,9 @@
+
+.fst{
+  min-width: 10em;
+  float:left;
+}
+.snd{
+  max-width: auto;
+  float:left;
+}
